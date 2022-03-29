@@ -10,8 +10,8 @@ Pour changer les sirènes :
 
 - dlc_wmsirens/oac/sirenpack_one > remplacez les fichiers si besoin (6 sirènes françaises sont déjà présentes)
  
-          	!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-          	!!!										 !!!
+        !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+        !!!										 !!!
 		!!! Les fichiers doivent être en format wave (.WAV) et garder leur nom d'origine !!!
 		!!!                		si vous les remplacez                            !!!
 		!!!										 !!!
